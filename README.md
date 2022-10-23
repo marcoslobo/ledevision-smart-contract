@@ -1,16 +1,18 @@
-# Le Divisor SM :tw-1f52a:
+# Le Divisor SM :knife:
 
 This Smart Contract Project is a use case for division of received values.
 
--   What this contract **DO** :tw-2705:
--   Shares received values(from main token of the blockchain ex.: ETH, BNB..)
--   Add n(uint256 max value) number of wallets
--   Block an wallet to withdraw value (owner of contract)
--   Inform to wallet owner how much an wallet has to withdraw
--   Let wallet owner to withdraw values that he is able
+-   What this contract **DO** :heavy_check_mark:
 
--   What this contract **NOT DO** :tw-26d4:
--   Auto transfer to registred wallets (no loop, no fee)
+    -   Shares received values(from main token of the blockchain ex.: ETH, BNB..)
+    -   Add n(uint256 max value) number of wallets
+    -   Block an wallet to withdraw value (owner of contract)
+    -   Inform to wallet owner how much an wallet has to withdraw
+    -   Let wallet owner to withdraw values that he is able
+
+-   What this contract **NOT DO** :x:
+
+    -   Auto transfer to registred wallets (no loop, no fee)
 
 -   Example of use
 
@@ -19,8 +21,9 @@ This Smart Contract Project is a use case for division of received values.
 > When the fee gets in the SM, the registred wallets are able to withdraw the divided fee by calling an function
 
 -   Tools
--   [Hardhat](https://hardhat.org/ 'Hardhat')
--   Tests with [Chai](https://www.chaijs.com/ 'Chai')
+
+    -   [Hardhat](https://hardhat.org/ 'Hardhat')
+    -   Tests with [Chai](https://www.chaijs.com/ 'Chai')
 
 -   Before Test or Deploy
 
@@ -35,7 +38,7 @@ This Smart Contract Project is a use case for division of received values.
     -   run `npx hardhat test`
 
 -   Deploy
--   run `npx hardhat run`
+    -   run `npx hardhat run`
 
 BUY ME A COFFEEEEEE
 
