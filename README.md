@@ -40,7 +40,9 @@ This Smart Contract Project is a use case for division of received values.
 -   Deploy
     -   run `npx hardhat run`
 
-BUY ME A COFFEEEEEE
+:eyes: Did you like it? :eyes:
 
-EVM LIKE (ETH, BNB, CRONOS, POLYGON..)
+Buy me a beer :beer:
+
+Any EVM Blockchain (ETH, Polygon, Binance)
 0x8130ca084a97B0d249230C7ec522ab6Eb8702F5e
