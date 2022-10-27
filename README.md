@@ -1,4 +1,4 @@
-# Le Divisor SM :knife:
+# Le Division SM :knife:
 
 This Smart Contract Project is a use case for division of received values.
 
